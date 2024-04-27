@@ -1,0 +1,198 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:README.md",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:1999",
+      "color": {
+        "a": 1,
+        "rgb": 57584
+      }
+    },
+    {
+      "query": "path:2000  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:2001  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:2002  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:2003  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:2005  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:2006  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:2007  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:2008  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:2009  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:2010  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:2011  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:2012  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:2013  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:2014  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:2015  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:2016  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053037
+      }
+    },
+    {
+      "query": "path:2017  ",
+      "color": {
+        "a": 1,
+        "rgb": 13137012
+      }
+    },
+    {
+      "query": "path:2018  ",
+      "color": {
+        "a": 1,
+        "rgb": 16052464
+      }
+    },
+    {
+      "query": "path:2019  ",
+      "color": {
+        "a": 1,
+        "rgb": 15311111
+      }
+    },
+    {
+      "query": "path:2020  ",
+      "color": {
+        "a": 1,
+        "rgb": 15791120
+      }
+    },
+    {
+      "query": "path:2021  ",
+      "color": {
+        "a": 1,
+        "rgb": 5162960
+      }
+    },
+    {
+      "query": "path:2023  ",
+      "color": {
+        "a": 1,
+        "rgb": 15167743
+      }
+    },
+    {
+      "query": "path:2024",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.67390852390852,
+  "lineSizeMultiplier": 2.08139293139293,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 0.545738045738046,
+  "linkDistance": 30,
+  "scale": 0.05932617187500005,
+  "close": false
+}
