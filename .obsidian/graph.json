@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "file:README.md",
@@ -188,11 +188,11 @@
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.67390852390852,
   "lineSizeMultiplier": 2.08139293139293,
-  "collapse-forces": true,
-  "centerStrength": 0.5,
+  "collapse-forces": false,
+  "centerStrength": 0.250519750519751,
   "repelStrength": 20,
-  "linkStrength": 0.545738045738046,
-  "linkDistance": 30,
-  "scale": 0.4505081176757888,
-  "close": true
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.05932617187500016,
+  "close": false
 }
